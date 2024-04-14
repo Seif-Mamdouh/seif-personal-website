@@ -46,8 +46,8 @@
 }
 
 .nav li a:hover {
-    background-color: black; 
-    color: white; /* White text */
+    background-color: white; 
+    color: black; /* White text */
 }
 
 
@@ -93,10 +93,10 @@ main::before {
     border-radius: 50%;
     width: 90vw;
     height: 50vw;
-    margin-left: -50vw; /* Adjusted for responsiveness */
-    filter: blur(10vw); /* Adjusted for responsiveness */
-    top: calc(50vh - 30vw); /* Adjusted for responsiveness */
-    left: 50vw; /* Adjusted for responsiveness */
+    margin-left: -50vw; 
+    filter: blur(10vw); 
+    top: calc(50vh - 30vw); 
+    left: 50vw; 
     animation: animateBefore 3s cubic-bezier(0.47, 0, 0.745, 0.715) infinite;
 }
 
@@ -134,3 +134,4 @@ main::after {
         transform: translateX(0);
     }
 }
+
