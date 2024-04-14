@@ -3,6 +3,7 @@ import React from 'react'
 import Image from "next/image";
 
 import '../styles/styles.css';
+import Nav from './Nav';
 
 const Hero = () => {
     return (
@@ -10,16 +11,12 @@ const Hero = () => {
             <Image src={'/profile.png'} alt={'Seif Image'} width={200} height={200} />
             <div className="mainDiv">
             <h1 className="bigTitle">
-            <span className="welcomeTexjt">I'm Seif Mamdouh</span>
+            <span>I'm Seif Mamdouh</span>
           </h1>
-          <div className="research">Software Engineer</div>
-          {/* <div className="line" /> */}
+          <div className="title">Software Engineer</div>
+          <Nav />
         </div>
       </main>
-      // <div className="main">
-      //     <h1>Hi! I'm Seif</h1>
-      //     <p> Software Engineer </p>
-      // </div>
     );
 }
 
