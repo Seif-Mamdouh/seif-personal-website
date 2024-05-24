@@ -7,13 +7,12 @@ const Nav = () => {
       <nav className="nav">
         <ul>
           <li>
-            <Link href="/experience">Experience</Link>
+            <Link href="https://www.linkedin.com/in/seif-mamdouh/">
+              LinkedIn
+            </Link>
           </li>
           <li>
-            <Link href="/projects">Projects</Link>
-          </li>
-          <li>
-            <Link href="/contact">Contact</Link>
+            <Link href="https://github.com/seif-mamdouh">Github</Link>
           </li>
         </ul>
       </nav>
