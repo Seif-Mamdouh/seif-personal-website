@@ -30,7 +30,7 @@
 
 .experience-description {
   margin-left: 20px;
-  font-size: 16px;
+  font-size: 18px;
 }
 
 @media (max-width: 1200px) {
@@ -38,10 +38,13 @@
     font-size: 40px;
   }
   .experience-role {
-    font-size: 16px;
+    font-size: 18px;
   }
   .experience-description {
     font-size: 14px;
+  }
+  .experience-logo {
+    width: 80px;
   }
 }
 
@@ -50,10 +53,13 @@
     font-size: 30px;
   }
   .experience-role {
-    font-size: 14px;
+    font-size: 12px;
   }
   .experience-description {
-    font-size: 12px;
+    font-size: 10px;
+  }
+  .experience-logo {
+    width: 60px;
   }
 }
 
@@ -62,9 +68,12 @@
     font-size: 24px;
   }
   .experience-role {
-    font-size: 12px;
+    font-size: 10px;
   }
   .experience-description {
-    font-size: 10px;
+    font-size: 8px;
+  }
+  .experience-logo {
+    width: 50px;
   }
 }
