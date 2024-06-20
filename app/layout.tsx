@@ -6,9 +6,6 @@ const inter = Inter({ subsets: ["latin"] });
 
 export const metadata: Metadata = {
   title: "Hey! I'm Seif!",
-  icons: {
-    icon: "/seif.ico",
-  },
 };
 
 export default function RootLayout({
