@@ -22,11 +22,11 @@ const Experience = () => {
       {/* Chick-Fil-A */}
       <div className="experience-item">
         <div className="experience-role">
-          <img src="/Chick-Fil-A.png" alt="CFA Logo" className="experience-logo" width={90} height={90} style={{marginRight: '3%'}}/>
+          <img src="/cfa.png" alt="CFA Logo" className="experience-logo" width={90} height={90} style={{marginRight: '3%'}}/>
           Chick-Fil-A Corporate | Software Engineer Intern Jan 2023 - May 2023
         </div>
         <div className="experience-description">
-        Led the end-to-end development of the Location Viewer app in ReactJS within 6 weeks, achieving 1300 active users and improving search UX by 40% with new features.
+        Led the end-to-end development of the Location Viewer app in ReactJS within 6 weeks, achieving 1300 active users.
         </div>
       </div>
 
@@ -58,7 +58,7 @@ const Experience = () => {
           Kanopy Labs | Software Engineer Intern May 2021 - June 2021
         </div>
         <div className="experience-description">
-          Engaged with clients and provide consultation on software solutions, business plans and design in an effort to bring client's ideas to life.
+          Engaged with clients and provide consultation on software solutions, business plans and design to bring client's ideas to life.
         </div>
       </div>
 
