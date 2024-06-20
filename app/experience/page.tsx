@@ -49,7 +49,7 @@ const Experience = () => {
       {/* Wi-Drive */}
       <div className="experience-item">
         <div className="experience-role">
-          <img src="/wt.png" alt="Wi-Drive Logo" className="experience-logo" style={{marginRight: '5%'}}/>
+          <img src="/wt.png" alt="Wi-Drive Logo" className="experience-logo" width={70} height={70}style={{marginRight: '5%'}}/>
           Wi-Drive | Software Engineer Intern
           <br/>
           Aug 2021 - Dec 2021
