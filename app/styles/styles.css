@@ -124,11 +124,11 @@ main::before {
 main::after {
     background: var(--secondary-glow);
     border-radius: 50%;
-    width: 25vw; /* Adjusted for responsiveness */
-    height: 35vw; /* Adjusted for responsiveness */
-    filter: blur(9vw); /* Adjusted for responsiveness */
-    top: calc(50vh - 25vw / 2); /* Adjusted for responsiveness */
-    left: calc(50vw - 25vw / 2); /* Adjusted for responsiveness */
+    width: 25vw; 
+    height: 35vw; 
+    filter: blur(9vw); 
+    top: calc(50vh - 25vw / 2); 
+    left: calc(50vw - 25vw / 2); 
     animation: animateAfter 5s cubic-bezier(0.47, 0, 0.745, 0.715) infinite;
 }
 
@@ -137,7 +137,7 @@ main::after {
         transform: translateY(0);
     }
     50% {
-        transform: translateY(10vw) scale(0.8); /* Adjusted for responsiveness */
+        transform: translateY(10vw) scale(0.8); 
     }
     100% {
         transform: translateY(0);
@@ -149,7 +149,7 @@ main::after {
         transform: translateX(0);
     }
     50% {
-        transform: translateX(-10vw) scale(1.2); /* Adjusted for responsiveness */
+        transform: translateX(-40vw) scale(1.2); 
     }
     100% {
         transform: translateX(0);
