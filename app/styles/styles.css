@@ -63,6 +63,26 @@
 }
 
 
+/* Media query for larger screens */
+@media screen and (min-width: 1200px) {
+    .mainDiv {
+        font-size: 4rem; 
+    }
+
+    .title {
+        font-size: 1rem; 
+    }
+
+    .nav ul {
+        font-size: 1rem;
+    }
+
+    .big{
+        font-size: 1.5rem;
+    }
+}
+
+
 /* Media query for smaller screens */
 @media screen and (max-width: 768px) {
     .mainDiv {
@@ -79,25 +99,6 @@
 
     .bigTitle{
         font-size: 2.0rem;
-    }
-}
-
-/* Media query for larger screens */
-@media screen and (min-width: 1200px) {
-    .mainDiv {
-        font-size: 4rem; 
-    }
-
-    .title {
-        font-size: 2rem; 
-    }
-
-    .nav ul {
-        font-size: 1rem;
-    }
-
-    .big{
-        font-size: 1.5rem;
     }
 }
 
