@@ -22,7 +22,7 @@ const Experience = () => {
       {/* Chick-Fil-A */}
       <div className="experience-item">
         <div className="experience-role">
-          <img src="/Chick-Fil-A.png" alt="Ernst & Young Logo" className="experience-logo" width={90} height={90} style={{marginRight: '3%'}}/>
+          <img src="/Chick-Fil-A.png" alt="CFA Logo" className="experience-logo" width={90} height={90} style={{marginRight: '3%'}}/>
           Chick-Fil-A Corporate | Software Engineer Intern Jan 2023 - May 2023
         </div>
         <div className="experience-description">
@@ -33,7 +33,7 @@ const Experience = () => {
       {/* NJ Transit */}
       <div className="experience-item">
         <div className="experience-role">
-          <img src="/njt.png" alt="Ernst & Young Logo" className="experience-logo" width={90} height={90} style={{marginRight: '3%'}}/>
+          <img src="/njt.png" alt="NJT Logo" className="experience-logo" width={90} height={90} style={{marginRight: '3%'}}/>
           NJ Transit | Software Engineer Intern June 2022 - Aug 2022
         </div>
         <div className="experience-description">
