@@ -1,8 +1,12 @@
-import Image from "next/image";
 import Header from "./components/Hero";
+
+import Experience from "./experience/page";
 
 export default function Home() {
   return (
-    <Header/>
+    <>
+      <Header />
+      <Experience />
+    </>
   );
 }
