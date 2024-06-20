@@ -55,7 +55,7 @@ const Experience = () => {
       <div className="experience-item">
         <div className="experience-role">
           <img src="/kl.png" alt="Kanopy Labs Logo" className="experience-logo" width={100} height={100} style={{marginRight: '3%'}}/>
-          Kanopy Labs | Software Engineer Intern Aug 2021 - Dec 2021
+          Kanopy Labs | Software Engineer Intern May 2021 - June 2021
         </div>
         <div className="experience-description">
           Engaged with clients and provide consultation on software solutions, business plans and design in an effort to bring client's ideas to life.
