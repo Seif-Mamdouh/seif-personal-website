@@ -120,7 +120,7 @@ main::before {
     filter: blur(10vw); 
     top: calc(50vh - 30vw); 
     left: 50vw; 
-    animation: animateBefore 3s cubic-bezier(0.47, 0, 0.745, 0.715) infinite;
+    animation: animateBefore 2s cubic-bezier(0.47, 0, 0.745, 0.715) infinite;
 }
 
 main::after {
