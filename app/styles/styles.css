@@ -119,7 +119,7 @@ main::before {
     filter: blur(10vw); 
     top: calc(50vh - 30vw); 
     left: 50vw; 
-    animation: animateBefore 2s cubic-bezier(0.47, 0, 0.745, 0.715) infinite;
+    animation: animateBefore 1.5s cubic-bezier(0.47, 0, 0.745, 0.715) infinite;
 }
 
 main::after {
@@ -150,7 +150,7 @@ main::after {
         transform: translateX(0);
     }
     50% {
-        transform: translateX(-40vw) scale(1.2); 
+        transform: translateX(50vw) scale(1.2); 
     }
     100% {
         transform: translateX(0);
