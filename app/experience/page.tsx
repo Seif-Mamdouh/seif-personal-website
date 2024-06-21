@@ -24,7 +24,7 @@ const Experience = () => {
       {/* Chick-Fil-A */}
       <div className="experience-item">
         <div className="experience-role">
-          <img src="/cfa.png" alt="CFA Logo" className="experience-logo" width={90} height={90} style={{marginRight: '3%'}}/>
+          <img src="/cfa.png" alt="CFA Logo" className="experience-logo" width={80} height={80} style={{marginRight: '3%'}}/>
           Chick-Fil-A | Software Engineer Intern
           <br/>
           Jan 2023 - May 2023
@@ -49,7 +49,7 @@ const Experience = () => {
       {/* Wi-Drive */}
       <div className="experience-item">
         <div className="experience-role">
-          <img src="/wt.png" alt="Wi-Drive Logo" className="experience-logo" width={70} height={70}style={{marginRight: '5%'}}/>
+          <img src="/wt.png" alt="Wi-Drive Logo" className="experience-logo" width={100} height={100}style={{marginRight: '3%'}}/>
           Wi-Drive | Software Engineer Intern
           <br/>
           Aug 2021 - Dec 2021
