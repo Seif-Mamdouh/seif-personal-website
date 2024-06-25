@@ -43,7 +43,7 @@ const Experience = () => {
           June 2022 - Aug 2022
         </div>
         <div className="experience-description">
-          Recognized the slow data processing time and reduced <strong> 3 minutes </strong> to <strong> 30 seconds </strong> by implementing an automated system in Python.</div>
+          Recognized slow data processing times and reduced them from <strong>3 minutes</strong> to <strong>30 seconds</strong> by implementing an automated system in <strong>Python</strong>.</div>
       </div>
 
       {/* WiDrive */}
@@ -55,7 +55,7 @@ const Experience = () => {
           Aug 2021 - Dec 2021
         </div>
         <div className="experience-description">
-          Enhanced <strong> user engagement </strong> by <strong> 35% </strong> by developing a new company website and secured a <strong> $140,000 </strong> angel investment by presenting to investors.
+          Enhanced <strong> user engagement </strong> by <strong> 35% </strong> by developing a new company website and secured a <strong> $140,000 </strong> angel investment by pitching to investors.
         </div>
       </div>
 
@@ -77,3 +77,4 @@ const Experience = () => {
 }
 
 export default Experience;
+

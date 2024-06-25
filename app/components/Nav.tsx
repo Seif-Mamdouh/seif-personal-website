@@ -14,6 +14,9 @@ const Nav = () => {
           <li>
             <Link href="https://github.com/seif-mamdouh">Github</Link>
           </li>
+          <li>
+            <Link href="https://medium.com/@seifmamdouh7878">Medium</Link>
+          </li>
         </ul>
       </nav>
     );
