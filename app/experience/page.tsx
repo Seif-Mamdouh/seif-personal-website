@@ -17,7 +17,7 @@ const Experience = () => {
           June 2023 - Aug 2023
         </div>
         <div className="experience-description">
-        Automated over <strong>200 test cases</strong> using Tricentis Tosca, leading to a <strong>40% reduction</strong> in testing time and enhanced software quality.
+        At EY, I automated <strong> 200+ test cases </strong> using <strong>Tricentis Tosca</strong> and collaborated with engineering teams to ensure good test coverage.
         </div>
       </div>
 
@@ -30,7 +30,7 @@ const Experience = () => {
           Jan 2023 - May 2023
         </div>
         <div className="experience-description">
-        Led the end-to-end development of the Location Viewer app in ReactJS <strong>within 6 weeks</strong>, achieving <strong>1300 active users</strong>.
+        I led a team of interns to develop a web app from scratch and deployed it <strong>within 6 weeks</strong>, resulting in <strong>1300 active users</strong>.
         </div>
       </div>
 
@@ -43,19 +43,19 @@ const Experience = () => {
           June 2022 - Aug 2022
         </div>
         <div className="experience-description">
-          Reduced data processing time from <strong>3 minutes</strong> to <strong>30 seconds</strong> by implementing an automated system in Python</div>
+          Recognized the slow data processing time and reduced <strong> 3 minutes </strong> to <strong> 30 seconds </strong> by implementing an automated system in Python.</div>
       </div>
 
-      {/* Wi-Drive */}
+      {/* WiDrive */}
       <div className="experience-item">
         <div className="experience-role">
           <img src="/wt.png" alt="Wi-Drive Logo" className="experience-logo" width={100} height={100}style={{marginRight: '3%'}}/>
-          Wi-Drive | Software Engineer Intern
+          WiDrive | Software Engineer Intern
           <br/>
           Aug 2021 - Dec 2021
         </div>
         <div className="experience-description">
-          Enhanced <strong>user engagement</strong> and <strong>reservation funnel</strong> by <strong>35%</strong> by developing a new engaging website.
+          Enhanced <strong> user engagement </strong> by <strong> 35% </strong> by developing a new company website and secured a <strong> $140,000 </strong> angel investment by presenting to investors.
         </div>
       </div>
 
@@ -68,7 +68,7 @@ const Experience = () => {
           May 2021 - June 2021
         </div>
         <div className="experience-description">
-          Engaged with clients and provide consultation on software solutions, business plans and design to bring client's ideas to life.
+           I was part of a 7 engineer team where I learned <strong>React/JS/TS</strong>, conducted <strong>github code reviews</strong>, and learned <strong>CI/CD rules</strong>.
         </div>
       </div>
 
